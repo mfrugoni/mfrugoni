@@ -1,8 +1,7 @@
 <h1 align="center">Hello! I'm Miguel...</h1>
 <h3 align="center">A ski instructor learning to code...</h3>
 
-- 🔭 I’m currently working on [My Portfolio for #YoProgramo](https://portfoliommf.web.app)
-- Mighty Ducks Hockey League (Mind Hub).
+- 🔭 I’m currently working on [My Portfolio for #YoProgramo](https://portfoliommf.web.app) and Mighty Ducks Hockey League (Mind Hub).
 
 - 🌱 I’m currently learning at Mind Hub.
 
