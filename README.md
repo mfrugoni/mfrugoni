@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning at Mind Hub.
 
-- 🤝 I’m looking for help with **Deploy on Render...**
+<!--- 🤝 I’m looking for help with **Deploy on Render...**-->
 
 - 👨‍💻 All of my projects are available at [https://portfoliommf.web.app](https://portfoliommf.web.app)
 
