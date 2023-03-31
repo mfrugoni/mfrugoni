@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Amazing Events web site. Mind Hub.
 <!-- -  and [My Portfolio for #YoProgramo](https://portfoliommf.web.app) -->
 
-- 🌱 I’m currently learning at Mind Hub.
+- 🌱 Recently finished: Front End Web Developer at Mind Hub - AP 4.0.
 
 <!--- 🤝 I’m looking for help with **Deploy on Render...**-->
 
