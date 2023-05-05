@@ -1,8 +1,7 @@
 <h1 align="center">Hello! I'm Miguel...</h1>
 <h3 align="center">Loading...</h3>
 
-- 🔭 I’m currently working on Amazing Events web site. Mind Hub.
-<!-- -  and [My Portfolio for #YoProgramo](https://portfoliommf.web.app) -->
+- 🔭 I’m currently working on [My Portfolio](https://portfoliommf.web.app)
 
 - 🌱 Recently finished: Front End Web Developer at Mind Hub - AP 4.0.
 
