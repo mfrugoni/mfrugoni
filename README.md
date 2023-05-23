@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Miguel...</h1>
 <h3 align="center">Loading...</h3>
 
-- 🔭 I’m currently working on [My Portfolio](https://portfoliommf.web.app)
+- 🔭 I’m currently working on [Esquia conmigo](https://portfoliommf.web.app](https://mfrugoni.github.io/maquetado-esquia-conmigo/)
 
 - 🌱 Recently finished: Front End Web Developer at Mind Hub - AP 4.0.
 
