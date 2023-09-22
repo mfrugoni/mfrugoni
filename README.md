@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.ar)
 
-- 🌱 Recently finished: Front End Web Developer at Mind Hub - AP 4.0.
+- 🌱 Recently finished: Java Web Developer at Mind Hub - AP 4.0.
 
 <!--- 🤝 I’m looking for help with **Deploy on Render...**-->
 
