@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Miguel...</h1>
-<h3 align="center">Web developer career Loading...</h3>
+<h3 align="center">Loading changes...</h3>
 
 - 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.ar) and [Angela Bravo | Productora de seguros](https://mfrugoni.github.io/a-bravo-maquetado/index.html)
 
@@ -7,7 +7,7 @@
 
 <!--- 🤝 I’m looking for help with **Deploy on Render...**-->
 
-- 👨‍💻 All of my projects are available at [https://portfoliommf.web.app](https://portfoliommf.web.app)
+- 👨‍💻 All of my projects are available at [my Portfolio](https://portfoliommf.web.app)
 
 
 <h3 align="left">Languages and Tools: In Progress...</h3>
