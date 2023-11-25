@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Miguel...</h1>
 <h3 align="center">Web developer career Loading...</h3>
 
-- 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.ar) and [Angela Bravo | Productora de segurs]([https://esquiaconmigo.ar](https://mfrugoni.github.io/a-bravo-maquetado/index.html))
+- 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.ar) and [Angela Bravo | Productora de seguros](https://mfrugoni.github.io/a-bravo-maquetado/index.html)
 
 - 🌱 Recently finished: Java Web Developer at Mind Hub - AP 4.0.
 
