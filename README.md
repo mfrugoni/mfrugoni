@@ -1,9 +1,9 @@
 <h1 align="center">Hello! I'm Miguel...</h1>
 <h3 align="center">Loading changes...</h3>
 
-- 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.ar) and [Angela Bravo | Productora de seguros](https://mfrugoni.github.io/a-bravo-maquetado/index.html)
+- 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.ar), [Angela Bravo | Productora de seguros](https://mfrugoni.github.io/a-bravo-maquetado/index.html) and [ArteMano] (https://artemano.store) 
 
-- 🌱 Recently finished: Java Web Developer at Mind Hub - AP 4.0.
+- 🌱 Recently finished: Web Development with WordPress at ELearning and UTN.
 
 <!--- 🤝 I’m looking for help with **Deploy on Render...**-->
 
