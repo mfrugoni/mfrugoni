@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Miguel...</h1>
 <h3 align="center">Loading changes...</h3>
 
-- 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.ar), [Angela Bravo | Productora de seguros](https://mfrugoni.github.io/a-bravo-maquetado/index.html),  [ArteMano](https://artemano.store)
+- 🔭 I’m currently working on [Esquia conmigo](https://esquiaconmigo.com), [Angela Bravo | Productora de seguros](https://angelabravo.com.ar).
 
 - 🌱 Recently finished: Web Development with WordPress at ELearning and UTN.
 
